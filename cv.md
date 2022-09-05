@@ -67,10 +67,10 @@ Hello, you can familiarize yourself with [about me](about.md) and [my hobbies](h
 
 ### Demos
 
-[MySN](https://mysn-deguz.herokuapp.com/) (actual, private)
-[MyOnlineStore](https://myonlinest.herokuapp.com/) (actual, private)
-[Weather app](https://mysn-deguz.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React-Weather-App) (old)
-[Calculator app](https://deguz-calculator.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React-Calculator-App) (old)
-[Todo app](https://deguz-todo.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React_ToDo-App) (old)
+- [MySN](https://mysn-deguz.herokuapp.com/) (actual, private)
+- [MyOnlineStore](https://myonlinest.herokuapp.com/) (actual, private)
+- [Weather app](https://mysn-deguz.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React-Weather-App) (old)
+- [Calculator app](https://deguz-calculator.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React-Calculator-App) (old)
+- [Todo app](https://deguz-todo.herokuapp.com/) +[GitHub](https://github.com/DeguzBelarus/React_ToDo-App) (old)
 
 [&#129045; To the top](#top)
