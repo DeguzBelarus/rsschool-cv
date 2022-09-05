@@ -1,7 +1,8 @@
 # Anton Dektyarev {#top}
 
-![my photo](/assets/my-photo.jpg)
 **_Front-End/Fullstack Developer_**
+
+![my photo](/assets/my-photo.jpg)
 
 ## Contacts
 
