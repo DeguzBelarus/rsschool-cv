@@ -1,6 +1,6 @@
 # Anton Dektyarev {#top}
 
-**_Front-End/Fullstack Developer_**
+## Front-End/Fullstack Developer
 
 ![my photo](/assets/my-photo.jpg)
 
