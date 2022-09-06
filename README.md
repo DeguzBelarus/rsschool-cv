@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DeguzBelarus.github.io/rsschool-cv/
