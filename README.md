@@ -1,1 +1,1 @@
-https://DeguzBelarus.github.io/rsschool-cv/cv
+https://DeguzBelarus.github.io/rsschool-cv/
